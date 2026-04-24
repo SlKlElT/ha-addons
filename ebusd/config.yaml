@@ -1,6 +1,6 @@
-name: eBUSd
+name: eBUSd2
 version: "26.1.8"
-slug: ebusd
+slug: ebusd2
 description: >
   Run ebusd — a daemon for communicating with eBUS devices (heating systems connected
   to a 2-wire energy bus). A transparent wrapper of john30/ebusd; tracks upstream
